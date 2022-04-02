@@ -1,1 +1,19 @@
 # Hack
+
+WRITEUP FOR DEVHACK:
+
+a=(ABCD1110) DECIMAL:
+
+ON SOLVING THE CIRCUIT :
+
+a=(10011110)DECIMAL = 158
+
+b=(EBXACDYZ)DECIMAL:
+
+ON SOLVING THE THREE CICUIT GIVEN WE GET ,
+
+b=(11001110)DECIMAL =206 
+
+hence submitting in the 7 segment display we capture the flag.
+
+flag{FLAG=EP}
