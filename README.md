@@ -17,3 +17,7 @@ b=(11001110)DECIMAL =206
 hence submitting in the 7 segment display we capture the flag.
 
 flag{FLAG=EP}
+
+
+WRITEUP FOR BLINK:
+
